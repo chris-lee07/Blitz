@@ -1,0 +1,26 @@
+﻿@model School.Models.Student
+
+<h3>@Html.DisplayFor(model => model.Name)</h3>
+
+<dt>
+    @Html.DisplayNameFor(model => model.Enrollments)
+</dt>
+<dd>
+    <table class="table">
+        <tr>
+            <th>Course Title</th>
+            <th>Instructor</th>
+        </tr>
+        @foreach (var item in Model.Enrollments)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Course.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Course.Instructor)
+            </td>
+        </tr>
+        }
+    </table>
+</dd>

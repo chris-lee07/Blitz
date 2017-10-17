@@ -1,0 +1,11 @@
+C:\Users\LeeCW\Documents\Visual Studio 2017\Projects\School\School\bin\Debug\netcoreapp2.0\School.deps.json
+C:\Users\LeeCW\Documents\Visual Studio 2017\Projects\School\School\bin\Debug\netcoreapp2.0\School.runtimeconfig.json
+C:\Users\LeeCW\Documents\Visual Studio 2017\Projects\School\School\bin\Debug\netcoreapp2.0\School.runtimeconfig.dev.json
+C:\Users\LeeCW\Documents\Visual Studio 2017\Projects\School\School\bin\Debug\netcoreapp2.0\School.dll
+C:\Users\LeeCW\Documents\Visual Studio 2017\Projects\School\School\bin\Debug\netcoreapp2.0\School.pdb
+C:\Users\LeeCW\Documents\Visual Studio 2017\Projects\School\School\obj\Debug\netcoreapp2.0\School.csprojResolveAssemblyReference.cache
+C:\Users\LeeCW\Documents\Visual Studio 2017\Projects\School\School\obj\Debug\netcoreapp2.0\School.csproj.CoreCompileInputs.cache
+C:\Users\LeeCW\Documents\Visual Studio 2017\Projects\School\School\obj\Debug\netcoreapp2.0\School.AssemblyInfoInputs.cache
+C:\Users\LeeCW\Documents\Visual Studio 2017\Projects\School\School\obj\Debug\netcoreapp2.0\School.AssemblyInfo.cs
+C:\Users\LeeCW\Documents\Visual Studio 2017\Projects\School\School\obj\Debug\netcoreapp2.0\School.dll
+C:\Users\LeeCW\Documents\Visual Studio 2017\Projects\School\School\obj\Debug\netcoreapp2.0\School.pdb
